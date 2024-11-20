@@ -32,4 +32,4 @@ This project aims to predict car prices using a machine learning model based on 
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Car-Price-Prediction-Model.git
+   git clone https://github.com/ramnaresh-ahi/Car-Price-Prediction-Model.git
